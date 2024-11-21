@@ -16,12 +16,16 @@ Headless WordPress blog with Next.js 15 App Router and TypeScript
 3. **Install the project:** 
   In the root directory of your project, run the following command:
 
-  ```npm install
+  `npm install`
 
 4. **Run the project locally** 
   In the root directory of your project, run the following command:
 
-  ```npm run dev
+  `npm run dev`
+
+Now you should be able to visit your project under: localhost:3000
+
+---
 
 [Watch the full YouTube tutorial](https://raddy.dev)
 
